@@ -1,4 +1,4 @@
-# Detection-of-Bank-Customer-Churn-Risk \\ 
+# Detection-of-Bank-Customer-Churn-Risk 
 In this project, we will predict bank customer churn. 
 The approach will be as follows: 
 Exploratory Data Analysis (EDA) 
